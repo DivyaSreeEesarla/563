@@ -1,2 +1,2 @@
-# 563
-hdf
+# automatic spinner
+hdfn
